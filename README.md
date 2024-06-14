@@ -3,7 +3,7 @@ Case Study Situation: Imagine a busy hospital environment where doctors are cons
 
 Task: As a part of my academic coursework, I was tasked with developing a machine learning model that could predict the presence of Kidney Disease based on a dataset of patient medical records. The goal was to create a reliable, quick, and cost-effective preliminary diagnostic tool that doctors could use to identify patients at risk of Kidney Disease, thereby improving patient outcomes and easing the diagnostic process.
 
-Action: I embarked on this project following a structured approach, ensuring that each step was carefully executed.
+Action: I embarked on this project following a structured approach(Data Science Lifecycle), ensuring that each step was carefully executed.
 
 Data Collection: I started by gathering the dataset, which contained various medical attributes of patients, such as age, blood pressure, specific gravity, albumin, and sugar levels.
 Ensuring the data was comprehensive and ready for analysis was crucial. Therefore, the dataset was loaded into the notebook from a CSV file.
