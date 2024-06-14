@@ -11,7 +11,7 @@ Ensuring the data was comprehensive and ready for analysis was crucial. Therefor
 Data Cleaning: The first step in cleaning the data was to handle any missing values. I opted to drop rows with missing values to maintain data integrity. I also ensured that each column had the correct data type (i.e., converting categorical to numerical if needed), which is vital for accurate analysis and model training.
 
 Data Exploration and Data Analysis: To understand the dataset better, I performed descriptive statistical analysis (Basic statistical details like mean, standard deviation, etc., of numerical columns) to summarize the central tendency, dispersion, and shape of the dataset’s distribution.
-Visualizations are powerful tools in data science. I used histograms, scatter plots, and correlation matrices to visualize data distributions and relationships between features through libraries like matplotlib and seaborn.
+Visualizations are powerful tools in data science. Therefore, I used histograms, scatter plots, and correlation matrices to visualize data distributions and relationships between features through libraries like matplotlib and seaborn.
 These steps helped in identifying patterns and relationships in the data, which are critical for feature engineering and model selection.
 
 Feature Engineering: I standardized the numerical features to ensure they were on a comparable scale, which is particularly important for algorithms like neural networks. 
